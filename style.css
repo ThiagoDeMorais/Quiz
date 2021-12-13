@@ -68,3 +68,7 @@ h2 {
   position: relative;
   color: azure;
 }
+
+.reinit-button{
+  visibility: hidden;
+}
